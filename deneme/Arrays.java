@@ -2,7 +2,7 @@ package deneme;
 
 public class Arrays {
     public static void main(String[] args) {
-        /*int[] sayiDizisi = new int[10];
+        int[] sayiDizisi = new int[10];
         sayiDizisi[0] = 3;
         sayiDizisi[1] = 4;
         sayiDizisi[8] = 9;
@@ -30,7 +30,7 @@ public class Arrays {
 
             System.out.println();
 
-        }*/
+        }
 
         PenFactory penFactory = new PenFactory();
         Pen[] penArray = new Pen[5];
